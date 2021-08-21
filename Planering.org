@@ -1,0 +1,21 @@
+#+TITLE: Planering
+
+* Frågeställning
+Något i stil med "Hur kan man man göra för att underlätta för skolor att hålla koll på läroböcker som lånas ut till elever?"
+
+* Research (exempel)
+** Enkät till skoladministrationer/lärare
+- Hur gör ni i dagsläget för att administrera och inventera läroböcker som ni lånar ut till elever?
+- Har ni någonsin haft ett problem med böcker som har försvunnit?
+** Enkät till elever
+- Har ni någonsin glömt att lämna in en bok som ni har lånat från skolan?
+- Brukar ni skriva någonstans vilka exemplar av vilka böcker ni har lånat från skolan?
+
+* Produkt
+Produkten ska bestå av en hemsida som användaren kan interagera med på olika sätt beroende på vilken typ av användare man är. Dessa tre användartyper ska också få varsin unika design på hemsidan. Användarna är som följande:
+** Elev
+Eleven är den "vanliga" användarna. Det enda eleverna kommer att kunna göra är att gå in på sidan för att se vilka böcker de har lånat och vilket "id-nummer" som dessa böcker har.
+** Lärare
+Läraren kan låna ut och se en överblick över de böcker som tillhör deras kurs. Läraren kan endast låna ut böcker till elever som de är lärare för. Läraren kan inte se vilka andra böcker som en elev har lånat.
+** Admin
+Administratören kan skapa nya användare, lägga till nya kurser/böcker, samt se en översikt över alla böcker i skolans inventarier.
